@@ -82,6 +82,7 @@ function App() {
       reader.readAsText(file);
     }
   };
+  //test
 
   return (
     <div className="App">
